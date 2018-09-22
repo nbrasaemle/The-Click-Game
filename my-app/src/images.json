@@ -1,0 +1,62 @@
+[
+    {
+        "id" : 1,
+        "name" : "Gandalf",
+        "image" : "http://www.bladecenter.com/images/products/detail/UC2926_1.jpg"
+    },
+    {
+        "id" : 2,
+        "name" : "Frodo",
+        "image" : "https://costumewall.com/wp-content/uploads/2017/06/frodo-baggins.jpg"
+    },
+    {
+        "id" : 3,
+        "name" : "Sam",
+        "image" : "http://www-images.theonering.org/torwp/wp-content/uploads/2013/05/samwise_74.jpg-720%C3%97301-pixels-300x227.jpg"
+    },
+    {
+        "id" : 4,
+        "name" : "Aragorn",
+        "image" : "https://imgix.bustle.com/rehost/2016/9/13/f1debc8e-02c6-4ba3-814e-e573734e9e4b.png?w=970&h=582&fit=crop&crop=faces&auto=format&q=70"
+    },
+    {
+        "id" : 5,
+        "name" : "Boromir",
+        "image" : "http://pm1.narvii.com/6262/0e215335b7eabdfdd4cdd06eb92d5f5e7c06dc04_00.jpg"
+    },
+    {
+        "id" : 6,
+        "name" : "Pippin",
+        "image" : "https://vignette.wikia.nocookie.net/lotr/images/8/8f/Pippin_Took_profile.jpg/revision/latest?cb=20170121121032"
+    },
+    {
+        "id" : 7,
+        "name" : "Merry",
+        "image" : "https://vignette.wikia.nocookie.net/lotr/images/f/fc/Lotr_merry.jpg/revision/latest?cb=20121126211744"
+    },
+    {
+        "id" : 8,
+        "name" : "Legolas",
+        "image" : "https://vignette.wikia.nocookie.net/lotr/images/3/33/Legolas_-_in_Two_Towers.PNG/revision/latest?cb=20120916035151"
+    },
+    {
+        "id" : 9,
+        "name" : "Gimli",
+        "image" : "https://vignette.wikia.nocookie.net/lotr/images/e/ec/Gimli_-_FOTR.png/revision/latest?cb=20121008105956"
+    },
+    {
+        "id" : 10,
+        "name" : "Arwen",
+        "image" : "https://i.stack.imgur.com/ch9vd.jpg"
+    },
+    {
+        "id" : 11,
+        "name" : "Eowyn",
+        "image" : "https://a1cf74336522e87f135f-2f21ace9a6cf0052456644b80fa06d4f.ssl.cf2.rackcdn.com/images/characters/p-the-lord-of-the-rings-miranda-otto.jpg"
+    },
+    {
+        "id" : 12,
+        "name" : "Galadriel",
+        "image" : "https://vignette.wikia.nocookie.net/cate-blanchett/images/d/d6/GaladrielROTK.png/revision/latest?cb=20141217141153"
+    }
+]
