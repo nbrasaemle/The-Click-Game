@@ -1,19 +1,20 @@
 import React, { Component } from 'react';
-import logo from './logo.svg';
+import Lodash from "lodash";
+import Card from "./components/Card";
+import Wrapper from "./components/Wrapper";
+import cards from "./images.json";
+import Navbar from "./components/Navbar";
 import './App.css';
 
+const shuffleArray = cards => {
+  const cardsShuffle = Lodash.shuffle(cards);
+  return cardsShuffle;
+};
+// All code for the props and the logic for the app
 class App extends Component {
   render() {
     return (
-      <div className="App">
-        <header className="App-header">
-          <img src={logo} className="App-logo" alt="logo" />
-          <h1 className="App-title">Welcome to React</h1>
-        </header>
-        <p className="App-intro">
-          To get started, edit <code>src/App.js</code> and save to reload.
-        </p>
-      </div>
+      <Navbar />
     );
   }
 }
